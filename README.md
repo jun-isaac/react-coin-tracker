@@ -15,7 +15,7 @@
 
 <img src="images/main.jpg" width="850">
 
-간단하게 api로 json 목록을 불러와서 coin 목록을 띄웁니다.
+- 간단하게 api로 json 목록을 불러와서 coin 목록을 띄웁니다.
 <br><br><br>
 ------------------
 
@@ -57,6 +57,7 @@
 ### ❌ 보기 좋게 CSS 수정
 
 <br><br><br>
+
 ## 사용 라이브러리
 |React|
 |---|
